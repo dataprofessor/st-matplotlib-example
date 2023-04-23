@@ -1,6 +1,8 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
+st.title('📈 Line plot with Matplotlib')
+
 # Data
 years = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020]
 population = [2.5, 3.0, 3.7, 4.5, 5.3, 6.1, 6.9, 7.7]
