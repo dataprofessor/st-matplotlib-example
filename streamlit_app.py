@@ -1,7 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
 
-st.title('📈 Line plot with Matplotlib')
+st.title('📈 Matplotlib - A minimum working example')
 
 # Data
 years = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020]
