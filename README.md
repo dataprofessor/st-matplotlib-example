@@ -1,13 +1,11 @@
-# 📦 Streamlit App Starter Kit 
+# 📈 Line Plot with Matplotlib 
 ```
-⬆️ (Replace above with your app's name)
+A working example showing the use of Matplotlib inside a Streamlit app.
 ```
-
-Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dataprofessor-st-matplotlib-line-plot-streamlit-app-2a0abu.streamlit.app/)
 
 ## Section Heading
 
